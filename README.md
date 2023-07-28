@@ -1,2 +1,3 @@
-# exercise
-my 1st project
+# Dashboard
+
+This is simple responsive admin dashboard
